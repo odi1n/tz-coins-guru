@@ -7,7 +7,7 @@ from src.schedulers import get_usernames, get_tweets
 from src.settings import setting
 
 app = FastAPI(
-    title="Tz portal group",
+    title="Tz coins guru",
     version="0.1.0",
     description="Description api",
 )
